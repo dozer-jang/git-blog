@@ -10,7 +10,7 @@
     <entry>
         <title type="html"><![CDATA[Test]]></title>
         <id>welcome</id>
-        <link href="https://dozer-jang.github.io/git-blog/welcome"/>
+        <link href="https://dozer-jang.github.io/welcome"/>
         <updated>2021-03-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is test Blog post]]></summary>
     </entry>
