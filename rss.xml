@@ -4,15 +4,22 @@
         <title>Dozer Tech Blog Blog</title>
         <link>https://dozer-jang.github.io/</link>
         <description>Dozer Tech Blog Blog</description>
-        <lastBuildDate>Tue, 30 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Test]]></title>
-            <link>https://dozer-jang.github.io/git-blog/welcome</link>
+            <title><![CDATA[Kubernetes Networking (1)]]></title>
+            <link>https://dozer-jang.github.io/welcome</link>
             <guid>welcome</guid>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[쿠버네티스를 공부하면서 CNI가 도대체 무엇인지 궁금해서 여러 가지 자료를 취합하다가 한번 흐름대로 정리할 필요를 느껴서 작성한 글입니다. 잘못된 내용이 전달될 가능성이 있습니다.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <link>https://dozer-jang.github.io/2021/03/30/Test</link>
+            <guid>Test</guid>
             <pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is test Blog post]]></description>
+            <description><![CDATA[This is test Blog post dsadfs]]></description>
         </item>
     </channel>
 </rss>

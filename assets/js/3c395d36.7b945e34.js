@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{73:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Kubernetes Networking (1)","permalink":"/welcome"},{"title":"Test","permalink":"/2021/03/30/Test"}]}')}}]);
