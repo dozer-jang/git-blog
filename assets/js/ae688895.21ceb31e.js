@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{83:function(e){e.exports=JSON.parse('{"allTagsPath":"/git-blog/tags","slug":"kubernetes","name":"kubernetes","count":1,"permalink":"/git-blog/tags/kubernetes"}')}}]);

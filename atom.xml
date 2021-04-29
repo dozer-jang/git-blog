@@ -10,15 +10,8 @@
     <entry>
         <title type="html"><![CDATA[Kubernetes Networking (1)]]></title>
         <id>welcome</id>
-        <link href="https://dozer-jang.github.io/git-blog/welcome"/>
+        <link href="https://dozer-jang.github.io/welcome"/>
         <updated>2021-04-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[쿠버네티스를 공부하면서 CNI가 도대체 무엇인지 궁금해서 여러 가지 자료를 취합하다가 한번 흐름대로 정리할 필요를 느껴서 작성한 글입니다. 잘못된 내용이 전달될 가능성이 있습니다.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test]]></title>
-        <id>Test</id>
-        <link href="https://dozer-jang.github.io/git-blog/2021/03/30/Test"/>
-        <updated>2021-03-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is test Blog post dsadfs]]></summary>
+        <summary type="html"><![CDATA[잘못된 내용이 전달될 가능성이 있습니다.]]></summary>
     </entry>
 </feed>
